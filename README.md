@@ -1,6 +1,6 @@
 # IMA
 
-Projekt realizowany w ramach przemdiotu *Głosowej łączności z komputerem* - **_Intelligent Music Application_**
+Projekt realizowany w ramach przedmiotu *Głosowej łączności z komputerem* - **_Intelligent Music Application_**
 
 ---
 
